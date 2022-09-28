@@ -5,7 +5,7 @@ under Level 1. This is for the introduction software technolgies class at **towe
 (https://www.towershs.dekalb.k12.ga.us/)
 
 !(The Towers High School and Dekalb County schools logos)
-(https://www.towershs.dekalb.k12.ga.us/Default.aspx)
+(https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 ## Level 2 - Heading 
 
 under level 2. 
