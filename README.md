@@ -17,11 +17,13 @@ afew languages that we discuss programing:
 -pyhon 
 -julia
 
+
 Tables are also helpful
 |-------|------|
 |row 1||Value 1|
 |row 2|Value 2 |
 |row 3|Value 3|
+
 
 ## Level 2 - Heading 
 
